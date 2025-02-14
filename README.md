@@ -37,7 +37,7 @@ Check out my portfolio: ((https://github.com/JTejaswini89/Portfolio))
 🔹 Java, Python, HTML,CSS
 🔹 Django  
 🔹 Machine Learning, AI
-🔹 Git, GitHub,  
+🔹 Git, GitHub
 🔹 SQL
 
 ---
