@@ -10,23 +10,29 @@ Hello! I'm Tejaswini Jonnagaddala, passionate about building scalable applicatio
 
 ---
 
-<h4> Projects  <h4>
+# <h4> Projects  </h4>
 
-# Brain Tumor Detection using AI  
+# <h5> Brain Tumor Detection using AI  </h5>
 Developed a deep learning model using TensorFlow & OpenCV to detect brain tumors from MRI images.  
 Achieved 90% accuracy on test data.  
 
-#  GitHub Commands Guide  
+# <h5> GitHub Commands Guide  </h5>
 A simple guide to mastering Git & GitHub with commonly used commands and best practices.  
 
+# <h5> Django-Based Web Applications</h5>
+
+Developed multiple Django-based web applications with user authentication and CRUD operations. Used Django models, views, templates, and Django Admin Panel.
+
+# <h5> Student Information Management System (Java)</h5>
+ A console-based Java application for managing student records, including personal details, academic records, attendance, parental information, and library resources.
 
 
-# Live Portfolio  
+# <h4> Live Portfolio </h4> 
 Check out my portfolio: ((https://github.com/JTejaswini89/Portfolio)) 
 
 ---
 
-##  Skills & Technologies  
+## <h4> Skills & Technologies  </h4>
 
 🔹 Java, Python, HTML,CSS
 🔹 Django  
@@ -36,7 +42,7 @@ Check out my portfolio: ((https://github.com/JTejaswini89/Portfolio))
 
 ---
 
-#  Contact Me  
+# <h4> Contact Me  <h4>
 Email:tejaswinijonnagaddala@example.com  
 LinkedIn:https://linkedin.com/in/tejaswini-jonnagaddala-7767a126a/
 GitHub: https://github.com/JTejaswini89 
