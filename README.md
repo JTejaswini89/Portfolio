@@ -43,7 +43,7 @@ Check out my portfolio: ((https://github.com/JTejaswini89/Portfolio))
 ---
 
 # <h4> Contact Me  <h4>
-Email:tejaswinijonnagaddala@example.com  
+Email:tejaswinijonnagaddala@gmail.com  
 LinkedIn:https://linkedin.com/in/tejaswini-jonnagaddala-7767a126a/
 GitHub: https://github.com/JTejaswini89 
 
