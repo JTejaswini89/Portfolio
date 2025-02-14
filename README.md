@@ -1,5 +1,5 @@
 # Portfolio 
-# # Tejaswini Jonnagaddala - Portfolio
+#<h4> Tejaswini Jonnagaddala - Portfolio<h4>
 
 Welcome to my personal portfolio! I am a Java Full Stack Developer and an Aspiring AI/ML Engineer. I love working with Java, Python, Machine Learning, and Web Development.
 
@@ -22,7 +22,7 @@ A simple guide to mastering Git & GitHub with commonly used commands and best pr
 
 
 ### 🌍 Live Portfolio  
-Check out my portfolio [here]((https://github.com/JTejaswini89/Portfolio)) 
+Check out my portfolio: ((https://github.com/JTejaswini89/Portfolio)) 
 
 ---
 
@@ -37,8 +37,8 @@ Check out my portfolio [here]((https://github.com/JTejaswini89/Portfolio))
 ---
 
 ##  Contact Me  
-Email: your.tejaswinijonnagaddala@example.com  
-LinkedIn: [linkedin.com/in/YOUR_PROFILE]([https://linkedin.com/in/YOUR_PROFILE](https://linkedin.com/in/tejaswini-jonnagaddala-7767a126a/))  
-GitHub: [github.com/YOUR_GITHUB_USERNAME]([https://github.com/YOUR_GITHUB_USERNAME](https://github.com/JTejaswini89))  
+Email:tejaswinijonnagaddala@example.com  
+LinkedIn:https://linkedin.com/in/tejaswini-jonnagaddala-7767a126a/
+GitHub: https://github.com/JTejaswini89 
 
 ---
